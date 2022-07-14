@@ -1,4 +1,4 @@
-<h1 align="center">Portfolio Website with Vue.js Vuetify</h1>
+<h1 align="center">Portfolio Website with Vue.js & Vuetify</h1>
 
 > It is a portfolio website made using Vue.js and Vuetify.
 <br>
