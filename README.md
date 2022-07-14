@@ -12,6 +12,7 @@
 
 - [Features](#features)
 - [Setup](#project-setup)
+- [Versions](#versions)
 - [Author](#author)
 - [License](#-license)
 
@@ -19,7 +20,7 @@
 
 ## Features
 - Builded with Vue.Js ✨
-- Vuetify framework (beta version) ✨
+- Vuetify framework (beta version - next) ✨
 - One page layout ✨
 - Material design ✨
 - Animated text ✨
@@ -52,6 +53,12 @@ npm run serve
 ```
 npm run build
 ```
+
+## Versions
+- Vue: 3.2.13
+- Vue-router: 4.0.3
+- Vuetify: npm:@vuetify/nightly@next
+
 
 ## Author
 
