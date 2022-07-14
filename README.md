@@ -4,7 +4,7 @@
 <br>
 <img align="center" src="doc/websitegif.gif"></img>
 <br>
-<p align="center"><strong> Live demo with my personnal data <a href="https://yusufonaran.me" target="blank">here</a> ! </strong></p>
+<p align="center"><strong> Live demo with my personnal data <a href="https://yusufonaran.me">here</a> ! </strong></p>
 
 ---
 
